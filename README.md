@@ -4,6 +4,11 @@ A comprehensive multi-page corporate website template featuring user authenticat
 
 ---
 
+## 🚀 Live Demo & Preview
+👉 **[View Live Website on GitHub Pages](https://mkalsariya9127.github.io/HTMLproject4/)**
+
+---
+
 ## 🌐 Included Pages
 - **Home (`index.html`):** Business overview, core mission, and service highlights.
 - **Health & Safety Guide (`covid.html`):** Public awareness resources, preventative guidelines, and wellness notices.
@@ -26,7 +31,7 @@ A comprehensive multi-page corporate website template featuring user authenticat
 
 ---
 
-## 🚀 How to Run
+## 🚀 How to Run Locally
 ```bash
 git clone https://github.com/mkalsariya9127/HTMLproject4.git
 ```
